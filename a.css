@@ -1,0 +1,41 @@
+
+body{
+background: url(https://imagenes.4ever.eu/data/download/abstractos/circulos,-fondo-gris-233157.jpg) no-repeat center;
+background-size: cover;
+}
+
+font {
+padding:0;
+	margin:0;
+	color: #ebebeb;
+	font: bold 44px "Calibri", Arial;
+text-align:center;
+}
+
+
+
+Anita{
+color:#FFD700;
+font-family:Garamond;
+font-size:25pt;
+}
+table,td{
+border:1px solid IVORY;
+border-collapse:collapse;
+background-color:#9ACD32;
+}
+
+table,th{
+border:1px solid IVORY;
+border-collapse:collapse;
+background-color:#9ACD32;
+}
+#cuadro {
+	width:300px;
+	height:80px;
+	padding: 1px 1px 1px;
+	color: #ebebeb;	
+	align:center;
+	font: 12px Arial, Helvetica, sans-serif;
+	background: url(http://imgur.com/gUvb8yo.png) center;
+}
