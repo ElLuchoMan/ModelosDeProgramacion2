@@ -1,4 +1,3 @@
-
 body{
 background: url(https://imagenes.4ever.eu/data/download/abstractos/circulos,-fondo-gris-233157.jpg) no-repeat center;
 background-size: cover;
@@ -19,10 +18,15 @@ color:#FFD700;
 font-family:Garamond;
 font-size:25pt;
 }
-table,td{
+table,ti{
 border:1px solid IVORY;
 border-collapse:collapse;
-background-color:#9ACD32;
+background-color:#FBFCFC;
+}
+table,tr{
+border:1px solid IVORY;
+border-collapse:collapse;
+background-color:#AEB6BF;
 }
 
 table,th{
@@ -38,4 +42,69 @@ background-color:#9ACD32;
 	align:center;
 	font: 12px Arial, Helvetica, sans-serif;
 	background: url(http://imgur.com/gUvb8yo.png) center;
+}
+#c2{
+	width:300px;
+	height:80px;
+	padding: 1px 1px 1px;
+	color: #ebebeb;	
+	align:center;
+	font: 12px Arial, Helvetica, sans-serif;
+	background: url(http://imgur.com/gUvb8yo.png) center;
+}
+#T1{
+	width:300px;
+	height:50px;
+	padding: 1px 1px 1px;
+	background-color: #ebebeb;	
+	align:center;
+	font: 12px BankGothic Md BT, Helvetica, sans-serif;
+}
+#T2{
+	width:300px;
+	height:50px;
+	padding: 1px 1px 1px;
+	background-color: #ebebeb;	
+	align:center;
+	font: 12px BankGothic Md BT, Helvetica, sans-serif;
+}#T3{
+	width:300px;
+	height:50px;
+	padding: 1px 1px 1px;
+	background-color: #ebebeb;	
+	align:center;
+	font: 12px BankGothic Md BT, Helvetica, sans-serif;
+}
+#T4{
+	width:280px;
+	height:30px;
+	padding: 1px 1px 1px;
+	background-color: #ebebeb;	
+	foreground-color: #000;
+	align:center;
+	font: 16px BankGothic Md BT, Helvetica, sans-serif;
+}
+#T5{
+	width:350px;
+	height:30px;
+	padding: 1px 1px 1px;
+	background-color: #ebebeb;	
+	align:center;
+	font: 22px BankGothic Md BT, Helvetica, sans-serif;
+}
+#T6{
+	width:450px;
+	height:30px;
+	padding: 1px 1px 1px;
+	background-color: #ebebeb;	
+	align:center;
+	font: 22px BankGothic Md BT, Helvetica, sans-serif;
+}
+#T7{
+	width:450px;
+	height:50px;
+	padding: 1px 1px 1px;
+	background-color: #ebebeb;	
+	align:center;
+	font: 12px BankGothic Md BT, Helvetica, sans-serif;
 }
